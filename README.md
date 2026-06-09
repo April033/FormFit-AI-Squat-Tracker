@@ -1,5 +1,6 @@
 # FormFit 🏋️‍♂️🤖📊
 ### *AI-Powered Squat Tracker & Radial Biometrics Analyzer*
+This is v1. See FormFit-AI-Squat-Tracker for the full version with radial analytics.
 
 **FormFit** is a real-time computer vision and sports analytics application that tracks human pose landmarks to evaluate exercise form, log workout metrics, and export stunning, high-resolution radial biometrics dashboards.
 
